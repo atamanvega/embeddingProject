@@ -6,3 +6,6 @@ package-lock.json
 
 # Ignore node_modules folder
 node_modules/
+
+# Ignore SQLite db file
+embeddings.db
