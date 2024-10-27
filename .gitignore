@@ -1,0 +1,8 @@
+# Ignore .DS_Store files (MacOS system files)
+.DS_Store
+
+# Ignore package-lock.json
+package-lock.json
+
+# Ignore node_modules folder
+node_modules/
